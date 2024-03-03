@@ -51,5 +51,5 @@ To visualize the data in the financial dataset, i use various visuals . Here are
 Sales Trend Over Time: Plot the total sales over time (e.g., by month or year) to observe any trends or patterns.
 Profit Margin Analysis: Create a bar chart or line plot showing the profit margin for each product or segment.
 Country-wise Sales Comparison: Generate a bar chart or pie chart comparing sales across different countries.
-Discount Impact Analysis: Visualize the impact of discounts on sales revenue using a scatter plot or line chart.
+Discount Impact Analysis: Visualize the impact of discounts on sales revenue using a  line chart.
 Product Performance: Create visualizations to compare the performance of different products based on sales, profit, or other metrics.
