@@ -43,4 +43,4 @@ This dataset can be utilized for various analytical purposes, including but not 
 # Sales performance analysis by segment, country, or product.
 # Profitability analysis to understand the contribution of different products or segments.
 # Discount analysis to optimize pricing strategies.
-#Trend analysis over time to identify seasonal patterns or year-over-year growth.
+### Trend analysis over time to identify seasonal patterns or year-over-year growth.
